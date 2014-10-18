@@ -1,0 +1,12 @@
+namespace nferreirax\banners;
+
+/**
+ * This is just an example.
+ */
+class BannersWidget extends \yii\base\Widget
+{
+    public function run()
+    {
+        return "Hello!";
+    }
+}
