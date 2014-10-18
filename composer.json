@@ -1,0 +1,21 @@
+{
+    "name": "nferreirax/yii2-banner",
+    "description": "This extension allow you to show image banners in your yii2 application",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","banner","ads"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Nelson Ferreira",
+            "email": "ptcaddons@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "nferreirax\\banners\\": ""
+        }
+    }
+}
